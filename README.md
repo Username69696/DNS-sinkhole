@@ -1,1 +1,1 @@
-# DNS-sinkhile
+# DNS-sinkhole
